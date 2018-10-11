@@ -9,4 +9,3 @@ mijn favoriete dingen zijn
 3.pasta
 4.muziek luisteren
 [favoriete site](https://www.youtube.com/).
-![alt text](https://upload.wikimedia.org/wikipedia/en/thumb/0/07/Metro_2033_Game_Cover.jpg/220px-Metro_2033_Game_Cover.jpg")
